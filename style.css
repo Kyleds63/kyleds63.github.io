@@ -1,3 +1,38 @@
 p{
 	background: gray;
+	text-align: center;
+	width:30%;
+	margin: auto;
+	padding:2$;
+}
+h1{
+	text-align: center;
+	width:20%;
+	background: white;
+	margin: auto;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+body{
+	background-size: 100%;
+	background-repeat: no-repeat;
+	width:auto;
+	height:100vh;
+
+}
+img{
+	
+	position: relative;
+	margin-top: 10%;
+	left:42%;
+	margin-bottom:10%;
+
+}
+
+footer{
+	background: black;
+	color: white;
+	text-align: center;
+	position: relative;
+	bottom: 0;
 }
